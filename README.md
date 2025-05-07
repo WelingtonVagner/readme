@@ -23,3 +23,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?WelingtonVagner=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
